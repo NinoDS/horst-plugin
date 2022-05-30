@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ninods.horstplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ninods.horstplugin.MyBundle
 
 class MyApplicationService {
 
